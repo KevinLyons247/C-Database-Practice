@@ -2,9 +2,6 @@
 
 > A lightweight relational database built completely in C from scratch, inspired by SQLite's internal architecture.
 
-<p align="center">
-  <img src="images/database-architecture.png" width="700"/>
-</p>
 
 ---
 
@@ -83,9 +80,6 @@ This design allows databases to efficiently work with files much larger than ava
 
 # B+ Tree Storage Engine
 
-<p align="center">
-  <img src="images/btree-growth.png" width="650"/>
-</p>
 
 The B+ Tree is the primary data structure used to organize records inside the database.
 
